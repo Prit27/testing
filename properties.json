@@ -1,0 +1,9 @@
+{
+  "appName": "Hello Moto",
+  "websiteUrl": "https://alarmsetter.com/",
+  "icon": "someS3Url.png",
+  "splash": "someS3UrlSplash.png",
+  "offline": "someS3UrlOffline.png",
+  "appPlatformId": "1",
+  "permissionId": "[1,2,3,4]"
+}
